@@ -42,47 +42,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Cucumber Open (SmartBear)](https://cucumber.io/)**  
-
-  **The original BDD tool and Gherkin language creator** . Cucumber Open is free and open source; **CucumberStudio** (formerly Hiptest) is the commercial test management platform. **SmartBear acquired Cucumber in 2019** and continues maintaining the open-source project. **CucumberStudio** provides collaborative feature file editing, test execution tracking, and living documentation hosting.
-
-
-
-- **[Tricentis Tosca](https://www.tricentis.com/)**  
-
-  **Enterprise continuous testing platform** with model-based test automation and BDD support. **The most comprehensive enterprise option** for large-scale test automation with codeless test creation.
-
-
-
-- **[Micro Focus UFT (OpenText)](https://www.microfocus.com/)**  
-
-  **Unified Functional Testing** with BDD support through Gherkin integration. **The enterprise standard** for functional test automation in regulated industries.
-
-
-
-- **[Katalon Studio](https://katalon.com/)**  
-
-  **Test automation platform with BDD support**—write Gherkin features and step definitions in Groovy. **The most accessible commercial BDD tool** with free tier and StudioAssist AI.
-
-
-
-- **[Testsigma](https://testsigma.com/)**  
-
-  **AI-powered test automation platform** with BDD support. Features **natural language test creation** and **self-healing tests**.
-
-
-
-- **[QASymphony (Tricentis qTest)](https://www.tricentis.com/products/qtest/)**  
-
-  **Test management platform** with BDD support, test case management, and requirement traceability. **Acquired by Tricentis**.
-
-
-
-- **[Gauge Cloud](https://gauge.org/)**  
-
-  **Managed version of the open-source Gauge framework** from ThoughtWorks. **Markdown-based specifications** with less ceremony than Gherkin.
+| Platform | Company / Owner | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits / Trial Limits | Description |
+|---|---|---|---|---|---|
+| **[Micro Focus UFT (OpenText)](https://www.microfocus.com/)** | OpenText | $5.25B revenue (FY24, Public: OTEX) | Starts at ~$3,200/seat/year (~$267/month) | No free tier; 30-day proof-of-concept (PoC) evaluation license available upon request | Enterprise standard for functional test automation and Gherkin BDD in enterprise & regulated environments. |
+| **[Tricentis Tosca](https://www.tricentis.com/)** | Tricentis | $4.5B valuation | Starts at ~$20,000/year (~$1,667/month base deployment) | No permanent free tier; 14-day free trial with access to core test automation & model-based modules | Enterprise continuous testing platform offering model-based automation and BDD support. |
+| **[QASymphony (Tricentis qTest)](https://www.tricentis.com/products/qtest/)** | Tricentis | $4.5B valuation | Starts at ~$50–$90/user/month (or ~$1,000/user/year) | No permanent free tier; 14-day free trial across qTest Manager, Sessions, Explorer, and Pulse modules | Test management platform with BDD support via qTest Scenario, requirements traceability, and Jira integration. |
+| **[Gauge Cloud](https://gauge.org/)** | ThoughtWorks | $1.13B revenue (Apax Partners) | Free (Core engine is 100% open-source Apache 2.0; cloud runner costs depend on cloud infra) | Free forever (100% open-source tool; unmetered local test authoring and execution; infrastructure usage billed by cloud provider) | Markdown-based test specification and living documentation framework developed by ThoughtWorks. |
+| **[CucumberStudio](https://cucumber.io/)** | SmartBear | ~$500M+ revenue | Starts at $32/user/month (Starter cloud tier) | No permanent free tier for studio; 14-day free trial with full feature collaboration and test management access | Collaborative BDD platform providing feature file editing, test execution tracking, and living documentation hosting. |
+| **[Katalon Studio](https://katalon.com/)** | Katalon | ~$40M–$60M ARR | Starts at $84/user/month (Professional plan, billed annually) | Free forever plan: restricted to local test authoring/manual execution, no CLI/CI-CD pipeline execution without paid KRE add-on | Comprehensive test automation platform with native BDD feature files and Groovy step definitions. |
+| **[Testsigma](https://testsigma.com/)** | Testsigma | ~$5M–$10M ARR ($18M funding) | Starts at $8/user/month (Test Management Pro) / $14/user/month (AI Suite) | Free forever plan for test management (basic tier); 14-day free trial for Cloud Test Automation platform | AI-driven continuous test automation platform featuring codeless NLP test authoring and BDD execution. |
 
 
 
