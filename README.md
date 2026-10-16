@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Behavior-Driven-Development-BDD?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Behavior-Driven-Development-BDD?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Behavior-Driven-Development-BDD?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Behavior-Driven-Development-BDD" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Behavior-Driven-Development-BDD" alt="License" /></a>
@@ -137,7 +137,7 @@ Contributions are welcome and appreciated! Help keep this ecosystem up to date:
 2. 🌿 Create a feature branch: `git checkout -b feature/add-bdd-tool`.
 3. 📝 Add your entry to `README.md` following the existing format:
    - Tool name, official website, and GitHub repository.
-   - License and star badge (for open source).
+   - License and Stars_Badge (for open source).
    - Clear 1–2 sentence description of key capabilities.
 4. 🚀 Submit a Pull Request with context on why the tool belongs on the list.
 
