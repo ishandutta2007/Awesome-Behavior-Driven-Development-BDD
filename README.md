@@ -1,46 +1,54 @@
-# Awesome-Behavior-Driven-Development-BDD
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Behavior-Driven Development (BDD)" width="100%" />
+</p>
 
-## Top Behavior-Driven Development (BDD) Ecosystem
+# 🚀 Awesome-Behavior-Driven-Development-BDD
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Behavior-Driven-Development-BDD?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Behavior-Driven-Development-BDD?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Behavior-Driven-Development-BDD" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Behavior-Driven-Development-BDD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Behavior-Driven-Development-BDD" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 📖 Top Behavior-Driven Development (BDD) Ecosystem
 
-*Focused on Gherkin Specifications, Step Definitions & Living Documentation*  
+**Curated Directory of SaaS Platforms & Open-Source GitHub Repositories for Behavior-Driven Development**  
+*Comprehensive resource for Gherkin specifications, acceptance test automation, step definitions, living documentation, and agile test-driven collaboration.*
 
-**Last updated: October 2026**
+**Last updated:** October 2026
 
+This repository tracks notable **SaaS platforms** and **open-source frameworks** designed for **Behavior-Driven Development (BDD)**, **Acceptance Test-Driven Development (ATDD)**, and **Specification by Example (SBE)**. These tools enable software teams to write human-readable, executable specifications in natural language, bridging communication gaps across business analysts, product owners, QA automation engineers, and software developers.
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Behavior-Driven Development (BDD)**. These tools enable teams to write executable specifications in plain language, bridge the gap between business stakeholders and engineers, and turn acceptance criteria into automated tests that serve as living documentation.
+## 📑 Table of Contents
 
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Framework Architecture Guide](#️-framework-architecture-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include SpecFlow, Cucumber, Reqnroll, Behave, Gauge, Tricentis Tosca, Micro Focus UFT, Katalon Studio, Testsigma, and QASymphony (the category leaders).
+## 📈 Sector Overview & Market Dynamics
 
+The global continuous testing and automated software quality market is estimated at approximately **$28 billion to $35 billion**, expanding at a robust compound annual growth rate (CAGR) of over **15% to 18%** as AI-driven quality assurance and CI/CD automation adoption surge.
 
+Market dynamics demonstrate a **moderately fragmented landscape**: while enterprise heavyweight consolidators like OpenText (UFT One), Tricentis (Tosca, qTest), and SmartBear hold concentrated market share in regulated enterprise tiers, vibrant open-source ecosystems (such as Cucumber, Ginkgo, Karate, and Reqnroll) and next-gen AI automation challengers prevent a winner-take-all outcome, maintaining healthy community diversity and vendor independence across languages.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, Gherkin execution, and open BDD frameworks—ideal for QA engineers, product teams, and developers seeking transparent, vendor-independent specification testing.
+---
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 | Platform | Company / Owner | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits / Trial Limits | Description |
 |---|---|---|---|---|---|
@@ -52,136 +60,115 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Katalon Studio](https://katalon.com/)** | Katalon | ~$40M–$60M ARR | Starts at $84/user/month (Professional plan, billed annually) | Free forever plan: restricted to local test authoring/manual execution, no CLI/CI-CD pipeline execution without paid KRE add-on | Comprehensive test automation platform with native BDD feature files and Groovy step definitions. |
 | **[Testsigma](https://testsigma.com/)** | Testsigma | ~$5M–$10M ARR ($18M funding) | Starts at $8/user/month (Test Management Pro) / $14/user/month (AI Suite) | Free forever plan for test management (basic tier); 14-day free trial for Cloud Test Automation platform | AI-driven continuous test automation platform featuring codeless NLP test authoring and BDD execution. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated list of production-ready, open-source BDD libraries and execution runners, sorted in descending order by GitHub stargazers count:
 
+- **[Ginkgo](https://github.com/onsi/ginkgo)** <a href="https://github.com/onsi/ginkgo/stargazers"><img src="https://img.shields.io/github/stars/onsi/ginkgo?style=social&color=white" alt="Ginkgo Stars" /></a>  
+  **Expressive BDD testing framework for Go** (MIT) . **Features**: Rich DSL with `Describe`, `Context`, `It`, `BeforeEach`, `JustBeforeEach`, expressive matcher library (Gomega), focused specs, table-driven test specs, and out-of-the-box parallel test execution across CPU cores . **The de facto BDD standard in the Kubernetes and cloud-native Go ecosystem** .
 
+- **[Karate](https://github.com/karatelabs/karate)** <a href="https://github.com/karatelabs/karate/stargazers"><img src="https://img.shields.io/github/stars/karatelabs/karate?style=social&color=white" alt="Karate Stars" /></a>  
+  **Unified test automation framework with BDD syntax for API, UI, and performance testing** (Apache-2.0) . **Features**: Plain-text Gherkin-like syntax without needing separate step definitions, built-in JSON/XML payload validation, HTTP mock server integration, Gatling performance integration, and rich HTML reporting . **The fastest path to BDD for API automation** .
 
-- **[Cucumber (cucumber-js)](https://github.com/cucumber/cucumber-js)**  
+- **[Cucumber.js](https://github.com/cucumber/cucumber-js)** <a href="https://github.com/cucumber/cucumber-js/stargazers"><img src="https://img.shields.io/github/stars/cucumber/cucumber-js?style=social&color=white" alt="Cucumber.js Stars" /></a>  
+  **Official JavaScript and TypeScript implementation of Cucumber** (MIT) . **Features**: Full Gherkin language parser (`Feature`, `Scenario`, `Given`, `When`, `Then`, `Examples`), step definitions with regex/expression matching, async hooks, tags, data tables, custom world contexts, and parallel worker execution . **Integrates seamlessly with Playwright, Puppeteer, Jest, Vitest, and WebdriverIO** .
 
-  **Behavior Driven Development (BDD) testing framework** (MIT) . **The JavaScript/TypeScript implementation of Cucumber** . **The reference implementation of the Gherkin language** . **Features**: **Plain-text feature files** written in Gherkin syntax (`Feature`, `Scenario`, `Given`, `When`, `Then`, `And`, `But`), **step definitions** that map Gherkin steps to executable code, **hooks** for setup/teardown (`Before`, `After`, `BeforeStep`, `AfterStep`), **tags** for selective execution, **data tables and doc strings** for complex inputs, **world** object for sharing state across steps, and **parallel execution** support . **Integrates with all major JavaScript test runners**—Jest, Mocha, Vitest, and Playwright . **Used by teams worldwide** for acceptance test-driven development (ATDD) and specification by example .
+- **[Cucumber-Ruby](https://github.com/cucumber/cucumber-ruby)** <a href="https://github.com/cucumber/cucumber-ruby/stargazers"><img src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social&color=white" alt="Cucumber Ruby Stars" /></a>  
+  **The original reference implementation of Cucumber in Ruby** (MIT) . **Features**: Clean Gherkin syntax parsing, Capybara browser testing integration, extensive ecosystem of Ruby gems, scenario outlines, and expressive step definitions . **The historic pioneer of Behavior-Driven Development** .
 
+- **[Behat](https://github.com/Behat/Behat)** <a href="https://github.com/Behat/Behat/stargazers"><img src="https://img.shields.io/github/stars/Behat/Behat?style=social&color=white" alt="Behat Stars" /></a>  
+  **The standard BDD framework for PHP applications** (MIT) . **Features**: Gherkin feature files, step definitions in PHP, hook life-cycles, tag filtering, Mink browser abstraction layer integration, and modular extension architecture . **Widely utilized across Symfony, Laravel, and Drupal enterprise teams** .
 
+- **[Spock](https://github.com/spockframework/spock)** <a href="https://github.com/spockframework/spock/stargazers"><img src="https://img.shields.io/github/stars/spockframework/spock?style=social&color=white" alt="Spock Stars" /></a>  
+  **Expressive testing and specification framework for Java and Groovy applications** (Apache-2.0) . **Features**: Clear BDD-style blocks (`given:`, `when:`, `then:`, `expect:`, `where:`), powerful built-in mocking and stubbing, parameterized data-driven testing tables, and deep JUnit runner compatibility .
 
-- **[Reqnroll](https://github.com/reqnroll/Reqnroll)**  
+- **[Behave](https://github.com/behave/behave)** <a href="https://github.com/behave/behave/stargazers"><img src="https://img.shields.io/github/stars/behave/behave?style=social&color=white" alt="Behave Stars" /></a>  
+  **Primary Gherkin BDD framework for Python** (BSD-2-Clause) . **Features**: Native Gherkin feature files, Python step implementations, `environment.py` life-cycle hooks (`before_all`, `after_all`, `before_scenario`), tag filtering, scenario outlines, and JUnit/JSON test reporters .
 
-  **The official successor to SpecFlow for .NET BDD** (MIT) . **SpecFlow was discontinued by Tricentis** —Reqnroll is the community-driven fork that continues development. **The .NET BDD standard in 2026** . **Features**: **Gherkin feature files**, **step definitions in C#**, **dependency injection support**, **hooks**, **tags**, **scenario outlines with examples**, **parallel execution**, and **comprehensive reporting** . **Migration from SpecFlow is straightforward**—the API is intentionally compatible .
+- **[Cucumber-JVM](https://github.com/cucumber/cucumber-jvm)** <a href="https://github.com/cucumber/cucumber-jvm/stargazers"><img src="https://img.shields.io/github/stars/cucumber/cucumber-jvm?style=social&color=white" alt="Cucumber JVM Stars" /></a>  
+  **Official Cucumber implementation for Java, Kotlin, and the JVM** (MIT) . **Features**: Gherkin feature files, step definitions across JVM languages, dependency injection modules (Spring, Guice, CDI, PicoContainer), JUnit 5 / TestNG engines, and parallel scenario execution .
 
+- **[Gauge](https://github.com/getgauge/gauge)** <a href="https://github.com/getgauge/gauge/stargazers"><img src="https://img.shields.io/github/stars/getgauge/gauge?style=social&color=white" alt="Gauge Stars" /></a>  
+  **Lightweight cross-platform specification runner created by ThoughtWorks** (Apache-2.0) . **Features**: Markdown-based executable specifications, multi-language runners (Java, JS/TS, Python, Ruby, C#, Go), data-driven tables, parallel execution, and living documentation generation .
 
+- **[Godog](https://github.com/cucumber/godog)** <a href="https://github.com/cucumber/godog/stargazers"><img src="https://img.shields.io/github/stars/cucumber/godog?style=social&color=white" alt="Godog Stars" /></a>  
+  **Official Cucumber BDD framework for Go** (MIT) . **Features**: Native Gherkin file support, idiomatic Go test integration (`go test`), concurrent scenario execution, step argument transformation, and sub-test reporting .
 
-- **[Behave](https://github.com/behave/behave)**  
+- **[pytest-bdd](https://github.com/pytest-dev/pytest-bdd)** <a href="https://github.com/pytest-dev/pytest-bdd/stargazers"><img src="https://img.shields.io/github/stars/pytest-dev/pytest-bdd?style=social&color=white" alt="pytest-bdd Stars" /></a>  
+  **BDD specification plugin for pytest** (MIT) . **Features**: Seamless integration with pytest fixtures, parametrization, markers, and plugin ecosystem; avoids global state by leveraging pytest dependency injection .
 
-  **BDD framework for Python** (BSD-2-Clause) . **The Python implementation of Cucumber/Gherkin** . **Features**: **Gherkin feature files**, **step implementations in Python**, **environment hooks** (`before_all`, `after_all`, `before_feature`, `after_feature`, `before_scenario`, `after_scenario`, `before_step`, `after_step`), **tag-based filtering**, **data tables**, **scenario outlines**, **parallel execution via behave-parallel**, and **formatters** for JUnit, JSON, and pretty output . **The standard BDD framework for Python** .
+- **[Reqnroll](https://github.com/reqnroll/Reqnroll)** <a href="https://github.com/reqnroll/Reqnroll/stargazers"><img src="https://img.shields.io/github/stars/reqnroll/Reqnroll?style=social&color=white" alt="Reqnroll Stars" /></a>  
+  **The official open-source successor to SpecFlow for .NET and C#** (MIT) . **Features**: Full Gherkin feature files, step definitions in C#, dependency injection, hooks, parallel execution, and direct migration path from legacy SpecFlow projects .
 
+- **[Serenity BDD (Core)](https://github.com/serenity-bdd/serenity-core)** <a href="https://github.com/serenity-bdd/serenity-core/stargazers"><img src="https://img.shields.io/github/stars/serenity-bdd/serenity-core?style=social&color=white" alt="Serenity BDD Stars" /></a>  
+  **Automated acceptance testing and rich living-documentation library** (Apache-2.0) . **Features**: Comprehensive illustrated test reports, Screenplay Pattern implementation, deep integration with Cucumber-JVM, JUnit, and Selenium/Playwright .
 
+- **[Cucumber-Rust](https://github.com/cucumber-rs/cucumber)** <a href="https://github.com/cucumber-rs/cucumber/stargazers"><img src="https://img.shields.io/github/stars/cucumber-rs/cucumber?style=social&color=white" alt="Cucumber Rust Stars" /></a>  
+  **Official Cucumber implementation for Rust** (MIT/Apache-2.0) . **Features**: Gherkin feature parsing, async step definitions powered by Tokio, attribute procedural macros, custom world states, and compile-time guarantees .
 
-- **[Behat](https://github.com/Behat/Behat)**  
+- **[Concordion](https://github.com/concordion/concordion)** <a href="https://github.com/concordion/concordion/stargazers"><img src="https://img.shields.io/github/stars/concordion/concordion?style=social&color=white" alt="Concordion Stars" /></a>  
+  **Specification by Example engine for Java** (Apache-2.0) . **Features**: Markdown and HTML-based specifications with embedded instrumentation, automated test execution, and generation of verified specification documents .
 
-  **BDD framework for PHP** (MIT) . **The PHP implementation of Cucumber/Gherkin** . **Features**: **Gherkin feature files**, **step definitions in PHP**, **hooks**, **tags**, **scenario outlines**, **Mink integration** for browser automation, and **extensions system** . **The standard BDD framework for PHP** .
-
-
-
-- **[Gauge](https://github.com/getgauge/gauge)**  
-
-  **Lightweight cross-platform test automation tool** (Apache-2.0) . **Markdown-based specifications**—less ceremony than Gherkin, more readable for business stakeholders . **Features**: **Markdown specs**, **multiple language runners** (Java, JavaScript, Python, Ruby, C#, Go), **data-driven execution**, **parallel execution**, **plugins** (HTML report, XML report, screenshots, IDE support), and **living documentation** . **The most pragmatic BDD tool for teams that find Gherkin too verbose** .
-
-
-
-- **[JBehave](https://github.com/jbehave/jbehave)**  
-
-  **BDD framework for Java** (BSD-3-Clause) . **The original Java BDD framework**—predates Cucumber-JVM . **Features**: **Gherkin-like stories**, **step definitions**, **embedders** for JUnit, Spring, and others, **pending steps**, and **story reporting** . **The foundation for Java BDD** .
-
-
-
-- **[Cucumber-JVM](https://github.com/cucumber/cucumber-jvm)**  
-
-  **Cucumber for the JVM** (MIT) . **The Java implementation of Cucumber/Gherkin** . **Features**: **Gherkin feature files**, **step definitions in Java/Kotlin/Groovy/Scala**, **dependency injection** (Spring, Guice, PicoContainer, CDI), **hooks**, **tags**, **parallel execution**, and **JUnit/TestNG integration** . **The standard BDD framework for the JVM** .
-
-
-
-- **[Cucumber-Rust](https://github.com/cucumber-rs/cucumber)**  
-
-  **Cucumber for Rust** (MIT/Apache-2.0) . **The Rust implementation of Cucumber/Gherkin** . **Features**: **Gherkin feature files**, **async step definitions with Tokio**, **scenario state management**, **attribute macros**, and **custom world** . **The standard BDD framework for Rust** .
-
-
-
-- **[Karate](https://github.com/karatelabs/karate)**  
-
-  **Unified test automation framework** with BDD syntax for API testing (Apache-2.0) . **The most popular BDD tool for API testing** —write tests in Gherkin-like syntax without step definitions. **Features**: **API testing**, **UI testing**, **performance testing**, **mocking**, **parallel execution**, and **HTML reports** . **The fastest path to BDD for API testing** .
-
-
-
-- **[Concordion](https://github.com/concordion/concordion)**  
-
-  **Open-source tool for writing executable specifications in Java** (Apache-2.0) . **The most "specification by example" native tool**—surrounds executable examples with prose descriptions . **The closest thing to truly readable specifications that are also tests** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[pytest-bdd](https://github.com/pytest-dev/pytest-bdd)** — BDD library for pytest (MIT) . **The most Pythonic approach to BDD**—uses pytest fixtures and markers instead of Behave's environment model .
-
-- **[Cucumber.js Playwright](https://github.com/cucumber/cucumber-js)** — Cucumber + Playwright integration for browser automation in JavaScript/TypeScript .
-
-- **[Serenity BDD](https://github.com/serenity-bdd/serenity-core)** — Open-source library for writing BDD acceptance tests (Apache-2.0) . **The most comprehensive Java BDD reporting framework** .
-
-- **[SpecFlow (legacy)](https://github.com/SpecFlowOSS/SpecFlow)** — The original .NET BDD framework (MIT) . **Discontinued by Tricentis** —migrate to Reqnroll .
-
-- Community **n8n** workflows for test execution orchestration and BDD report routing.
-
-
-
-**Frameworks for building custom systems**: Combine **Cucumber-JVM** for JVM BDD with **Reqnroll** for .NET, **Behave** or **pytest-bdd** for Python, **Karate** for API testing, and **Gauge** for Markdown-based specifications—creating a comprehensive cross-language BDD testing stack.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- BDD frameworks handling test specifications must comply with data protection regulations (GDPR, CCPA, etc.) and avoid including real credentials or PII in feature files.
-
-- **Open-source BDD is mature and production-ready.** Cucumber-JVM, Behave, Behat, and SpecFlow/Reqnroll are the established implementations for their respective languages . Karate is the standard for API BDD testing . Gauge offers a pragmatic alternative to Gherkin . **These are genuine alternatives to commercial platforms.**
-
-- **SpecFlow is discontinued.** **Reqnroll is the official successor** for .NET BDD—the community-driven fork that continues development with an intentionally compatible API . **Migrate existing SpecFlow projects to Reqnroll.**
-
-- **Gherkin is a language, not a religion.** Gauge's Markdown-based specs offer less ceremony and more readability for business stakeholders . Karate eliminates step definitions entirely for API testing . **Choose the level of ceremony that your team actually benefits from.**
-
-- **Step definitions are maintenance burden.** Every Gherkin step requires a matching step definition—this is the hidden cost of BDD. **Keep step vocabulary small and focused** to avoid combinatorial explosion of step definitions.
-
-- **BDD is about collaboration, not tools.** The tooling is secondary to the conversation between business, development, and QA. **Tools without the conversation produce the same testing problems with more ceremony.**
-
-- Self-hosted open-source solutions require proper CI/CD integration, test environment management, and ongoing maintenance. **Feature files are code**—they belong in version control alongside the application.
-
-
+- **[JBehave Core](https://github.com/jbehave/jbehave-core)** <a href="https://github.com/jbehave/jbehave-core/stargazers"><img src="https://img.shields.io/github/stars/jbehave/jbehave-core?style=social&color=white" alt="JBehave Stars" /></a>  
+  **The pioneering Java BDD framework originated by Dan North** (BSD-3-Clause) . **Features**: Textual user stories, configurable step matchers, Spring and JUnit embedders, and tabular reporting .
 
 ---
 
+## 🛠️ Framework Architecture Guide
 
+Creating a scalable, cross-language Behavior-Driven Development architecture:
 
-**Made for QA engineers, product teams, and developers building transparent BDD testing solutions.**  
+- ☕ **JVM (Java / Kotlin)**: Use **Cucumber-JVM** or **Spock** for web/unit flows; pair with **Serenity BDD** for living documentation.
+- 🌐 **Web & Node.js (TypeScript / JavaScript)**: Use **Cucumber.js** combined with **Playwright** or **WebdriverIO** for fast end-to-end browser automation.
+- 🔷 **.NET / C#**: Standardize on **Reqnroll** (the official, actively maintained successor to discontinued SpecFlow).
+- 🐍 **Python**: Choose **pytest-bdd** for clean fixture reuse or **Behave** for classic Gherkin directory structures.
+- 🐹 **Go**: Choose **Ginkgo** for developer-centric expressive specs or **Godog** for stakeholder-facing Gherkin syntax.
+- 📡 **REST & GraphQL API Testing**: Use **Karate** for zero-step-definition declarative HTTP validation.
 
-Let's make Behavior-Driven Development more open, data-driven, and executable.
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome and appreciated! Help keep this ecosystem up to date:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a feature branch: `git checkout -b feature/add-bdd-tool`.
+3. 📝 Add your entry to `README.md` following the existing format:
+   - Tool name, official website, and GitHub repository.
+   - License and star badge (for open source).
+   - Clear 1–2 sentence description of key capabilities.
+4. 🚀 Submit a Pull Request with context on why the tool belongs on the list.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and supporting this curated BDD ecosystem! 🌟  
+If this project helped you or your engineering team adopt behavior-driven development:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** with colleagues and testing communities.
+- ☕ **Support the maintainer**: Buy a coffee or become a sponsor on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Behavior-Driven-Development-BDD&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Behavior-Driven-Development-BDD&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated directory intended for research, evaluation, and educational purposes. Mention of specific vendors or open-source projects does not constitute formal endorsement.
+- Ensure test specifications containing Gherkin scenarios adhere to organizational privacy policies (GDPR, CCPA, HIPAA) and do not store sensitive credentials or real customer PII in plain-text feature files.
+- **SpecFlow is officially discontinued**: Existing .NET projects should migrate to [Reqnroll](https://github.com/reqnroll/Reqnroll), which retains backwards-compatible APIs and active community maintenance.
+- **BDD is a communication practice first, tooling second**: Tools without active three-amigos collaboration (Product, QA, Dev) will simply automate brittle tests with unnecessary ceremony. Keep step vocabularies focused and concise!
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for QA automation engineers, developers, and product teams practicing Behavior-Driven Development.</b>
+</p>
